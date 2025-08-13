@@ -1,1 +1,1 @@
-# Restaurant-Website
+"A visually appealing and responsive restaurant website built with HTML, CSS, and JavaScript, featuring an elegant menu display, image gallery, reservation form, and smooth animations to enhance the dining experience online."
